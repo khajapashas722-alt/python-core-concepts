@@ -14,6 +14,10 @@ Each project focuses on a single Python concept such as input/output, conditiona
 - Tuples
 - Sets
 - Basic exception handling
+- Functions and return values
+- String methods
+- File handling
+- Exception handling
 
 ## Purpose
 - Strengthen Python fundamentals
