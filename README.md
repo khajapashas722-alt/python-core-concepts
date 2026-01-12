@@ -2,7 +2,7 @@
 
 This repository contains small Python mini-projects created to revise and strengthen core Python fundamentals.
 
-Each project focuses on a single Python concept such as input/output, conditionals, loops, data structures, and basic error handling.
+Each project focuses on a single Python concept, gradually progressing from basics to more advanced topics.
 
 ## Concepts Covered
 - Print and input
@@ -11,21 +11,28 @@ Each project focuses on a single Python concept such as input/output, conditiona
 - Loops (for, while)
 - Break and continue
 - Lists
-- Tuples
+- Tuples and tuple unpacking
 - Sets
-- Basic exception handling
 - Functions and return values
 - String methods
 - File handling
-- Exception handling
+- Exception handling (try / except)
+- Lambda functions
+- List comprehensions
+- Variable scope (global)
+- Object-Oriented Programming (classes & objects)
+- Modules and packages
+- Generators and yield
 
 ## Purpose
 - Strengthen Python fundamentals
 - Practice concept-wise programming
-- Build a strong base for Machine Learning
+- Build a strong base for Machine Learning and technical interviews
 
 ## How to Use
-- Each folder/file represents one Python concept
+- Each file or folder demonstrates one Python concept
 - Run the `.py` files using Python 3
+- Read the comments inside each file for understanding
 
 This repository is part of my learning journey as a B.Tech CSE (AI & ML) student.
+
